@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.left{
+    position: absolute;
+    height: 85%;
+    width: 50%;
+    cursor: all-scroll;
+}
+.right{
+    position: absolute;
+    right: 0;
+    height: 85%;
+    width: 50%;
+    cursor: cell;
+}
+.bottom{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 15%;
+    cursor: copy;
+}
